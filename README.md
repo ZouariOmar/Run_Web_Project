@@ -32,9 +32,44 @@ This template provides a basic structure for starting a new web project. It incl
 10 directories, 9 files
 ```
 
-## How to Use
+## How to Use (**Installation**)
 
-1. **Clone the Repository:**
+To lunch the project on your Linux system, follow these steps:
 
-   ```bash
-   git clone https://github.com/ZouariOmar/Run_Web_Project
+1. **Clone the Repository**:
+
+    ```sh
+    git clone https://github.com/ZouariOmar/Run_Web_Project.git
+    ```
+
+2. **Navigate to the Directory**:
+
+    ```sh
+    cd Run_Web_Project/html/index.html
+    ```
+
+3. **Run the Application**:
+
+    ```sh
+    run "Go Live Ext" or press "Alt+l Alt+i"
+    ```
+
+## Contributing
+
+We welcome contributions from the community. If you wish to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a new Pull Request.
+
+Please make sure your code adheres to our coding standards and includes appropriate tests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or suggestions, please feel free to reach out to us at [zouariomar20@gmail.com](mailto:zouariomar20@gmail.com)
