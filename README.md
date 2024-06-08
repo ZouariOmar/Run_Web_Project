@@ -10,26 +10,29 @@ This template provides a basic structure for starting a new web project. It incl
 
 ```plaintext
 .Run Web Project
-├── conf
-│   └── github
 ├── doc
-│   ├── notes.txt
-│   └── pdf
-│       └── NONE.pdf
+│   ├── notes.txt
+│   └── pdf
+│       └── NONE.pdf
 ├── download
-│   └── down.exe
+│   └── down.exe
+├── github
 ├── LICENSE
 ├── project
-│   ├── css
-│   │   └── style.css
-│   ├── html
-│   │   └── index.html
-│   └── js
-│       └── script.js
+│   ├── css
+│   │   └── style.css
+│   ├── doc
+│   │   └── NONE
+│   ├── html
+│   │   └── index.html
+│   ├── js
+│   │   └── script.js
+│   └── res
+│       └── NONE
 ├── README.md
 └── Run_Web_Project.code-workspace
 
-10 directories, 9 files
+11 directories, 11 files
 ```
 
 ## How to Use (**Installation**)

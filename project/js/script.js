@@ -1,6 +1,5 @@
 /***************************************************
- * @format    Prettier
- * @file      index.html
+ * @file      script.js
  * @team      NONE
  * @author    @ZouariOmar (zouariomar20@gmail.com)
  * @IDE       VSC
