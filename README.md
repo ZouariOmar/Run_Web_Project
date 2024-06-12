@@ -9,7 +9,7 @@ This template provides a basic structure for starting a new web project. It incl
 ## Project Structure
 
 ```plaintext
-.Run Web Project
+.Run_Web_Project
 ├── doc
 │   ├── notes.txt
 │   └── pdf
