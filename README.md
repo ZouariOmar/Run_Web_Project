@@ -11,28 +11,39 @@ This template provides a basic structure for starting a new web project. It incl
 ```plaintext
 .Run_Web_Project
 ├── doc
-│   ├── notes.txt
-│   └── pdf
-│       └── NONE.pdf
-├── download
-│   └── down.exe
+│   └── g_Doxygen.sh
 ├── github
 ├── LICENSE
+├── pkg
+│   ├── npm-commands.sh
+│   └── npx-commands.sh
 ├── project
-│   ├── css
-│   │   └── style.css
-│   ├── doc
-│   │   └── NONE
-│   ├── html
-│   │   └── index.html
-│   ├── js
-│   │   └── script.js
+│   ├── backend
+│   │   ├── html
+│   │   │   └── index.html
+│   │   ├── js
+│   │   │   └── script.js
+│   │   └── php
+│   │       └── login.php
+│   ├── frontend
+│   │   ├── assets
+│   │   │   └── NONE
+│   │   ├── cmd
+│   │   │   └── sassToCss.sh
+│   │   ├── css
+│   │   │   └── style.css
+│   │   ├── html
+│   │   │   └── index.html
+│   │   ├── js
+│   │   │   └── script.js
+│   │   └── sass
+│   │       └── style.sass
 │   └── res
 │       └── NONE
 ├── README.md
 └── Run_Web_Project.code-workspace
 
-11 directories, 11 files
+17 directories, 16 files
 ```
 
 ## How to Use (**Installation**)
@@ -48,7 +59,7 @@ To lunch the project on your Linux system, follow these steps:
 2. **Navigate to the Directory**:
 
     ```sh
-    cd Run_Web_Project/html/index.html
+    cd Run_Web_Project/frontend/html/index.html
     ```
 
 3. **Run the Application**:
